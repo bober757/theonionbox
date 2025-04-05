@@ -15,7 +15,7 @@ from .proxy import Proxy
 py = sys.version_info
 py30 = py >= (3, 0, 0)
 
-__supported_protocol__ = ['6.2', '7.0', '7.1', '8.0']
+__supported_protocol__ = ['6.2', '7.0', '8.0', '8.1', '8.2', '8.3']
 
 
 class Mode(object):
