@@ -126,7 +126,7 @@ class VersionManager(object):
         self.last_mod = ''
 
     def update(self):
-
+        return False
         # No service without proxy!
         if self.proxy is None:
             return False
