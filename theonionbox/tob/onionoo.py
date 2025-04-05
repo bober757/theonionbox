@@ -31,7 +31,7 @@ class TorType(object):
 
 ONIONOO_OPEN = 'https://onionoo.torproject.org'
 # ONIONOO_HIDDEN = ['http://onionoorcazzotwa.onion', 'http://tgel7v4rpcllsrk2.onion']
-ONIONOO_HIDDEN = ['http://tgel7v4rpcllsrk2.onion']
+ONIONOO_HIDDEN = ['http://dud2sxm6feahhuwj4y4lzktduy7v3qpaqsfkggtj2ojmzathttkegoid.onion']
 
 
 # class Query(object):
